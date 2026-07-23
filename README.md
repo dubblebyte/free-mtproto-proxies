@@ -6,8 +6,8 @@
   @description: Handshake-verified MTProto proxy list updated every 8 hours for Telegram users in blocked regions
   @updateFrequency: PT8H
   @license: https://opensource.org/licenses/MIT
-  @dateModified: 2026-07-21T05:59:54.104550Z
-  @creator: https://github.com/Shinigami200/free-mtproto-proxies
+  @dateModified: 2026-07-23T05:21:25.713218Z
+  @creator: https://github.com/dubblebyte/free-mtproto-proxies
   @distribution: all_proxies.txt, proxies.json, index.html
   @verificationMethod: Live MTProto handshake + latency test
 -->
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Verified-MTProto_handshake-blue?style=flat-square" alt="Verified MTProto handshake">
 </p>
 
-> ⭐ If this helps you bypass blocks, please [star this repo](https://github.com/Shinigami200/free-mtproto-proxies) — it keeps the list alive!
+> ⭐ If this helps you bypass blocks, please [star this repo](https://github.com/dubblebyte/free-mtproto-proxies) — it keeps the list alive!
 
 ---
 
@@ -77,7 +77,7 @@ Our bot runs this cycle:
 |:-----|:-------|:--------|
 | [all_proxies.txt](all_proxies.txt) | Plain Text | One `tg://proxy` URL per line — paste into Telegram |
 | [proxies.json](proxies.json) | JSON Array | Structured data: server, port, secret, latency, regions, timestamps |
-| [index.html](https://Shinigami200.github.io/free-mtproto-proxies/) | HTML | Web dashboard with copy-paste buttons |
+| [index.html](https://dubblebyte.github.io/free-mtproto-proxies/) | HTML | Web dashboard with copy-paste buttons |
 
 ### JSON Schema
 
@@ -93,7 +93,7 @@ Our bot runs this cycle:
 }
 ```
 
-> 📊 Live stats (proxy count, latency, last check time) are on the [dashboard page](https://Shinigami200.github.io/free-mtproto-proxies/), which updates automatically. This README is a static page and does not reflect real-time numbers.
+> 📊 Live stats (proxy count, latency, last check time) are on the [dashboard page](https://dubblebyte.github.io/free-mtproto-proxies/), which updates automatically. This README is a static page and does not reflect real-time numbers.
 
 ---
 
@@ -162,7 +162,7 @@ Join [@SetProxy](https://t.me/SetProxy) on Telegram for the complete list (not j
 
 ---
 
-☕ Found this useful? [Give it a star](https://github.com/Shinigami200/free-mtproto-proxies) and share it with friends in blocked regions!
+☕ Found this useful? [Give it a star](https://github.com/dubblebyte/free-mtproto-proxies) and share it with friends in blocked regions!
 
 <p align="center">
   <em>This repository is fully automated — proxy files are updated in the background with no human intervention.</em>

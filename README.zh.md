@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/已验证-MTProto_handshake-blue?style=flat-square" alt="已通过 MTProto handshake 验证">
 </p>
 
-> ⭐ 如果这份列表帮你突破了封锁，请为[这个仓库加星](https://github.com/Shinigami200/free-mtproto-proxies) —— 这能让项目持续维护下去！
+> ⭐ 如果这份列表帮你突破了封锁，请为[这个仓库加星](https://github.com/dubblebyte/free-mtproto-proxies) —— 这能让项目持续维护下去！
 
 ---
 
@@ -62,7 +62,7 @@
 |:-----|:-------|:--------|
 | [all_proxies.txt](all_proxies.txt) | 纯文本 | 每行一个 `tg://proxy` 链接 —— 直接粘贴到 Telegram |
 | [proxies.json](proxies.json) | JSON | 结构化数据：服务器、端口、密钥、延迟、地区 |
-| [index.html](https://Shinigami200.github.io/free-mtproto-proxies/) | HTML | 带一键复制按钮的网页面板 |
+| [index.html](https://dubblebyte.github.io/free-mtproto-proxies/) | HTML | 带一键复制按钮的网页面板 |
 
 ---
 
@@ -118,7 +118,7 @@
 
 ---
 
-☕ 觉得这个项目有用？[加个星标](https://github.com/Shinigami200/free-mtproto-proxies)，分享给身处受限地区的朋友吧！
+☕ 觉得这个项目有用？[加个星标](https://github.com/dubblebyte/free-mtproto-proxies)，分享给身处受限地区的朋友吧！
 
 <p align="center">
   <em>本仓库完全自动化运行——代理文件在后台自动更新，无需人工干预。</em>

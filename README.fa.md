@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/تأیید_شده-MTProto_handshake-blue?style=flat-square" alt="تأیید شده با MTProto handshake">
 </p>
 
-> ⭐ اگر این لیست به شما کمک می‌کند فیلترینگ را دور بزنید، لطفاً به [این ریپازیتوری ستاره بدهید](https://github.com/Shinigami200/free-mtproto-proxies) — این کار پروژه را زنده نگه می‌دارد!
+> ⭐ اگر این لیست به شما کمک می‌کند فیلترینگ را دور بزنید، لطفاً به [این ریپازیتوری ستاره بدهید](https://github.com/dubblebyte/free-mtproto-proxies) — این کار پروژه را زنده نگه می‌دارد!
 
 ---
 
@@ -64,9 +64,9 @@
 |:-----|:-------|:--------|
 | [all_proxies.txt](all_proxies.txt) | متن ساده | هر خط یک لینک `tg://proxy` — مستقیم در تلگرام جای‌گذاری کنید |
 | [proxies.json](proxies.json) | JSON | داده ساخت‌یافته: سرور، پورت، رمز، تأخیر، منطقه |
-| [index.html](https://Shinigami200.github.io/free-mtproto-proxies/) | HTML | داشبورد وب با دکمه‌های کپی |
+| [index.html](https://dubblebyte.github.io/free-mtproto-proxies/) | HTML | داشبورد وب با دکمه‌های کپی |
 
-> 📊 آمار زنده (تعداد پروکسی، تأخیر، آخرین بررسی) در [صفحه داشبورد](https://Shinigami200.github.io/free-mtproto-proxies/) که به‌صورت خودکار به‌روزرسانی می‌شود. این README یک صفحه ثابت است و تغییرات لحظه‌ای را نشان نمی‌دهد.
+> 📊 آمار زنده (تعداد پروکسی، تأخیر، آخرین بررسی) در [صفحه داشبورد](https://dubblebyte.github.io/free-mtproto-proxies/) که به‌صورت خودکار به‌روزرسانی می‌شود. این README یک صفحه ثابت است و تغییرات لحظه‌ای را نشان نمی‌دهد.
 
 ---
 
@@ -122,7 +122,7 @@
 
 ---
 
-☕ این پروژه به کارتان آمد؟ [یک ستاره بدهید](https://github.com/Shinigami200/free-mtproto-proxies) و با دوستان خود در مناطق فیلترشده به اشتراک بگذارید!
+☕ این پروژه به کارتان آمد؟ [یک ستاره بدهید](https://github.com/dubblebyte/free-mtproto-proxies) و با دوستان خود در مناطق فیلترشده به اشتراک بگذارید!
 
 <p align="center">
   <em>این ریپازیتوری کاملاً خودکار است — فایل‌های پروکسی در پس‌زمینه و بدون دخالت انسانی به‌روزرسانی می‌شوند.</em>

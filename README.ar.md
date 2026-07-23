@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/موثّق-MTProto_handshake-blue?style=flat-square" alt="موثّق عبر MTProto handshake">
 </p>
 
-> ⭐ إذا كانت هذه القائمة تساعدك على تجاوز الحظر، فضلاً [ضع نجمة على هذا المستودع](https://github.com/Shinigami200/free-mtproto-proxies) — هذا يبقي القائمة حيّة!
+> ⭐ إذا كانت هذه القائمة تساعدك على تجاوز الحظر، فضلاً [ضع نجمة على هذا المستودع](https://github.com/dubblebyte/free-mtproto-proxies) — هذا يبقي القائمة حيّة!
 
 ---
 
@@ -62,7 +62,7 @@
 |:-----|:-------|:--------|
 | [all_proxies.txt](all_proxies.txt) | نص عادي | رابط `tg://proxy` واحد في كل سطر — الصقه مباشرة في تليجرام |
 | [proxies.json](proxies.json) | JSON | بيانات مُهيكلة: الخادم، المنفذ، السر، زمن الاستجابة، المناطق |
-| [index.html](https://Shinigami200.github.io/free-mtproto-proxies/) | HTML | لوحة تحكم ويب بأزرار نسخ سريعة |
+| [index.html](https://dubblebyte.github.io/free-mtproto-proxies/) | HTML | لوحة تحكم ويب بأزرار نسخ سريعة |
 
 ---
 
@@ -118,7 +118,7 @@
 
 ---
 
-☕ أعجبك المشروع؟ [ضع نجمة](https://github.com/Shinigami200/free-mtproto-proxies) وشاركه مع أصدقائك في المناطق المحظورة!
+☕ أعجبك المشروع؟ [ضع نجمة](https://github.com/dubblebyte/free-mtproto-proxies) وشاركه مع أصدقائك في المناطق المحظورة!
 
 <p align="center">
   <em>هذا المستودع آلي بالكامل — يتم تحديث ملفات البروكسي في الخلفية دون أي تدخل بشري.</em>
