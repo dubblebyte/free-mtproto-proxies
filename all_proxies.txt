@@ -198,3 +198,4 @@ https://t.me/proxy?server=node.mishkalapy.life&port=443&secret=ee75d9c434c4709d2
 https://t.me/proxy?server=app.rknwatch.digital&port=443&secret=ee8d10c3b786b7ced3ad9d55ae882b08c36170702e726b6e77617463682e6469676974616c
 https://t.me/proxy?server=net.antitspu.com&port=443&secret=ee6a993b83cd2e872361ed136b4e7b28146e65742e616e7469747370752e636f6d
 https://t.me/proxy?server=eerie.proxytales.life&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+https://t.me/proxy?server=93.93.205.79&port=443&secret=ee0fe587f40c56420da5430215c0fe58c57777772e636c6f7564666c6172652e636f6d
