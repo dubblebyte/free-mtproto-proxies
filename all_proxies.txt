@@ -82,3 +82,4 @@ https://t.me/proxy?server=mercury.flarevpn.top&port=443&secret=ee5018602bc9cb912
 https://t.me/proxy?server=tg1-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70
 https://t.me/proxy?server=tg2-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee17eb452b20e3b8bb808c0a2ff9770e147075622e756c7472612d666173742e6363
+tg://proxy?server=help.esnappkala.help&port=443&secret=ee019ca68f0d19b27e4a11bd99fd508f487777772e636c6f7564666c6172652e636f6d
